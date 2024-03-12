@@ -18,6 +18,8 @@ Danny has shared with you 3 key datasets for this case study:
 - sales
 - menu
 - members
+
+
 ![ERD](https://github.com/Vansh8905/Danny-s-Diner-Case-Study/assets/90714562/25ed3482-13c2-4f79-83db-dfa4105c86de)
 
 
